@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masulaa&label=Profile%20views&color=0e75b6&style=flat" alt="masulaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masulaa" alt="masulaa" /></a> </p>
-
 - 🔭 I’m currently working on [filmoteka-2024](https://github.com/Masulaa/filmoteka-korteks-2024)
 
 - 🌱 I’m currently learning **Laravel**
