@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masulaa&label=Profile%20views&color=0e75b6&style=flat" alt="masulaa" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **react, js, laravel**
 
